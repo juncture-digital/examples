@@ -2,22 +2,21 @@
 
 `header "Amalfi Coast" wc:AmalfiCoast11.jpg .sticky`
 
+
+`gallery gh-dir=rsnyder/media/italy/amalfi-coast`
+
 # The Amalfi Coast
 
 The [Amalfi Coast](Q212214) (Italian: Costiera amalfitana) is a stretch of coastline in southern Italy overlooking the Tyrrhenian Sea and the Gulf of Salerno. It is located south of the Sorrentine Peninsula and north of the Cilentan Coast.[^1]
 
 ```
 gallery
-- wc:Six_Sunflowers_1888.jpg
-- wc:Vincent_van_Gogh_-_Zonnebloemen_-_Google_Art_Project.jpg
-- wc:Vincent_van_Gogh_-_Sunflowers_(1888,_National_Gallery_London).jpg
-- wc:Vincent_Van_Gogh_-_Three_Sunflowers_F453.jpg
-- wc:Akseli_Gallen-Kallela_-_Sunflower_at_the_Nairobi_Savannah_(1909%E2%80%921910).jpg
-- wc:Moestuin_met_zonnebloem_-_s0004V1962v_-_Van_Gogh_Museum.jpg
-- wc:The_Artist's_Garden_at_Eragny.jpg
-- wc:Bessac_16_Le_Menot_2013.jpg
-- wc:Mother_and_Child_-_Cassatt_1905.jpg
-- wc:Sunflowersagnaneamt.jpg
+wc:Atrani_(Costiera_Amalfitana,_23-8-2011).jpg
+wc:Costiera-amalfitana-_panorama_from_the_sea_129.jpg
+wc:Amalfi_Coast_(247891371).jpeg
+wc:Amalfi_Coast_(Italy,_October_2020)_-_73_(50557616528).jpg
+wc:Amalfi_Coast_(Italy,_October_2020)_-_72_(50558479917).jpg
+wc:Amalfi_Coast_(Italy,_October_2020)_-_14_(50558382446).jpg
 ```
 
 Celebrated worldwide for its Mediterranean landscape and natural diversity, the Coast is named after the town of Amalfi, which makes up its main historical and political centre. It is a very popular jet set destination, and has been an attraction to upper-class Europeans since the 18th century, when it was a frequent stopover on their Grand Tours.
