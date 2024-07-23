@@ -1,6 +1,6 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
-`header "Amalfi Coast" wc:AmalfiCoast11.jpg .sticky`
+`header "Juncture Examples" subtitle="The Amalfi Coast" background=wc:AmalfiCoast11.jpg .sticky`
 
 
 # The Amalfi Coast
@@ -9,12 +9,14 @@ The [Amalfi Coast](Q212214) (Italian: Costiera amalfitana) is a stretch of coast
 
 ```
 gallery
-wc:Atrani_(Costiera_Amalfitana,_23-8-2011).jpg
-wc:Costiera-amalfitana-_panorama_from_the_sea_129.jpg
-wc:Amalfi_Coast_(247891371).jpeg
-wc:Amalfi_Coast_(Italy,_October_2020)_-_73_(50557616528).jpg
-wc:Amalfi_Coast_(Italy,_October_2020)_-_72_(50558479917).jpg
-wc:Amalfi_Coast_(Italy,_October_2020)_-_14_(50558382446).jpg
+Amalfi.jpg
+Amalfi_Coast.jpg
+Fiordo_di_Furore__1.jpg
+Fiordo_di_Furore__2.jpg
+Positano.jpg
+Ravello__1.jpg
+Ravello__2.jpg
+Ravello__3.jpg
 ```
 
 Celebrated worldwide for its Mediterranean landscape and natural diversity, the Coast is named after the town of Amalfi, which makes up its main historical and political centre. It is a very popular jet set destination, and has been an attraction to upper-class Europeans since the 18th century, when it was a frequent stopover on their Grand Tours.
