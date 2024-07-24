@@ -6,8 +6,8 @@
 
 ```
 header "Juncture Examples" background=wc:AmalfiCoast11.jpg .sticky
-[Home](/)
-[Examples](/examples)
+[Juncture home](https://v3.juncture-digital.org)
+[Examples](/)
 ```
 
 # Juncture Examples

@@ -2,8 +2,8 @@
 
 ```
 header "Juncture Examples" subtitle="The Amalfi Coast" background=wc:AmalfiCoast11.jpg breadcrumbs .sticky
-[Home](/)
-[Examples](/examples)
+[Juncture home](https://v3.juncture-digital.org)
+[Examples](/)
 ```
 
 # The Amalfi Coast
