@@ -6,7 +6,8 @@
 
 ```
 header "Juncture Examples" background=wc:AmalfiCoast11.jpg .sticky
-[Examples Home]()
+[Home](/)
+[Examples](/examples)
 ```
 
 # Juncture Examples
