@@ -1,7 +1,6 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
 <style>
-
     img[alt=Github] {
         height: 24px;
         margin: 0 6px -6px 6px;
