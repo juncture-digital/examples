@@ -1,7 +1,7 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org)
 
 ```
-header "Juncture Examples" subtitle="The Amalfi Coast" background=wc:AmalfiCoast11.jpg breadcrumbs .sticky
+header "Juncture Examples" subtitle="The Amalfi Coast" background=wc:AmalfiCoast11.jpg .sticky
 [Juncture home](https://v3.juncture-digital.org)
 [Examples](/)
 ```
