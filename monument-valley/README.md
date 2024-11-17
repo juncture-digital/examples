@@ -24,10 +24,11 @@ Between 1945 and 1967, the southern extent of the Monument Upwarp was mined for 
 
 Monument Valley includes much of the area surrounding Monument Valley Navajo Tribal Park, a Navajo Nation equivalent to a national park. Oljato, for example, is also within the area designated as Monument Valley.  Visitors may drive through the park on a 17-mile (27 km) dirt road. Parts of Monument Valley, such as Mystery Valley and Hunts Mesa, are accessible only by guided tour.
 
-Monument Valley has been featured in many forms of media since the 1930s. Famed director John Ford used the location for a number of his Westerns. Film critic Keith Phipps wrote that "its five square miles [13 km2] have defined what decades of moviegoers think of when they imagine the American West".
+Monument Valley has been featured in many forms of media since the 1930s. Famed director John Ford used the location for a number of his Westerns. Film critic Keith Phipps wrote that "its five square miles [13 km2] have defined what decades of moviegoers think of when they imagine the American West".[^3]
 
 `video yg0As_HOvJk left`
 `video GGyiZ7SE3V4 right`
 
 [^1]: Scheffel, Richard L.; Wernet, Susan J., eds. (1980). Natural Wonders of the World. Reader's Digest. p. 255. ISBN 978-0895770875.
 [^2]: King, Farina (2018). "Náhookọs (North): New Hioes for Diné Students." The Earth Memory Compass: Diné Landscapes and Education in the Twentieth Century. University Press of Kansas. pp. 142–74. [doi:10.2307/j.ctv6mtdsj](https://doi.org/10.2307%2Fj.ctv6mtdsj). S2CID 135010884.
+[^3]:  Phipps, Keith (November 17, 2009). ["The Easy Rider Road Trip"](https://slate.com/culture/2009/11/monument-valley-where-peter-and-henry-fonda-s-careers-intersected.html). Slate. Retrieved December 16, 2012.
