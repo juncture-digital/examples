@@ -1,5 +1,7 @@
 [![](https://v3.juncture-digital.org/badge.png)](https://v3.juncture-digital.org)
 
+`header "Monument Valley" wc:Monument_Valley_banner.jpg height=100 alpha=0.1`
+
 # Monument Valley
 
 `image wc:Monument_Valley,_Utah,_USA_(23611451292).jpg "Monument Valley" right`
