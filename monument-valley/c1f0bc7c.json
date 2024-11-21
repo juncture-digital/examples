@@ -40,5 +40,26 @@
       "id": "c1f0bc7c"
     },
     "id": "0fa8ce75"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Merrick Butte - This butte is broader and less \"mitten-like\" compared to the other two. It is named after gold prospector Thomas Merrick, who explored the area.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://editor.juncture-digital.org/undefined",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3971.704833984375,1048.6051025390625,1149.230224609375,1004.3992919921875"
+      },
+      "id": "c1f0bc7c"
+    },
+    "id": "f8d317c8"
   }
 ]
