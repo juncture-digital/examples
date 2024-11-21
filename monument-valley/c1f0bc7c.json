@@ -19,5 +19,26 @@
       "id": "c1f0bc7c"
     },
     "id": "65c7e4dc"
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "East Mitten Butte - Similar in shape to West Mitten Butte, this formation is its counterpart, creating a mirrored mitten-like appearance.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://editor.juncture-digital.org/undefined",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2524.5888671875,1143.1029052734375,985.113037109375,886.2974853515625"
+      },
+      "id": "c1f0bc7c"
+    },
+    "id": "0fa8ce75"
   }
 ]
