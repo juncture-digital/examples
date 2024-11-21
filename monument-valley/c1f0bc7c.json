@@ -1,0 +1,23 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "West Mitten Butte - This formation is named because its shape resembles a mitten, with an extended \"thumb\" on one side.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://editor.juncture-digital.org/undefined",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:868.2450561523438,863.8038940429688,1007.8534545898438,981.1243286132812"
+      },
+      "id": "c1f0bc7c"
+    },
+    "id": "65c7e4dc"
+  }
+]
