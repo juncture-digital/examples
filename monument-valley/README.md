@@ -1,4 +1,4 @@
-This formation is named because its shape resembles a mitten, with an extended "thumb" on one side.Similar in shape to West Mitten Butte, this formation is its counterpart, creating a mirrored mitten-like appearance.Merrick ButteThis butte is broader and less "mitten-like" compared to the other two. It is named after gold prospector Thomas Merrick, who explored the area.[![](https://v3.juncture-digital.org/badge.png)](https://v3.juncture-digital.org)
+[![](https://v3.juncture-digital.org/badge.png)](https://v3.juncture-digital.org)
 
 `header "Monument Valley" wc:Monument_Valley_banner.jpg height=100 alpha=0`
 
@@ -32,5 +32,3 @@ Monument Valley has been featured in many forms of media since the 1930s. Famed 
 [^1]: Scheffel, Richard L.; Wernet, Susan J., eds. (1980). Natural Wonders of the World. Reader's Digest. p. 255. ISBN 978-0895770875.
 [^2]: King, Farina (2018). "Náhookọs (North): New Hioes for Diné Students." The Earth Memory Compass: Diné Landscapes and Education in the Twentieth Century. University Press of Kansas. pp. 142–74. [doi:10.2307/j.ctv6mtdsj](https://doi.org/10.2307%2Fj.ctv6mtdsj). S2CID 135010884.
 [^3]:  Phipps, Keith (November 17, 2009). ["The Easy Rider Road Trip"](https://slate.com/culture/2009/11/monument-valley-where-peter-and-henry-fonda-s-careers-intersected.html). Slate. Retrieved December 16, 2012.
-
-`annotate`
